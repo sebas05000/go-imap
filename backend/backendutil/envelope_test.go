@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/emersion/go-imap"
 	"github.com/emersion/go-message/textproto"
+	"github.com/sebas05000/go-imap"
 )
 
 var testEnvelope = &imap.Envelope{

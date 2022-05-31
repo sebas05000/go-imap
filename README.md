@@ -16,8 +16,8 @@ package main
 import (
 	"log"
 
-	"github.com/emersion/go-imap/client"
-	"github.com/emersion/go-imap"
+	"github.com/sebas05000/go-imap/client"
+	"github.com/sebas05000/go-imap"
 )
 
 func main() {

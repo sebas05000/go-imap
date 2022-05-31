@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"github.com/emersion/go-imap"
+	"github.com/sebas05000/go-imap"
 )
 
 // An ENABLE command, defined in RFC 5161 section 3.1.

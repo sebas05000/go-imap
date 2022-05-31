@@ -3,7 +3,7 @@ package utf7_test
 import (
 	"testing"
 
-	"github.com/emersion/go-imap/utf7"
+	"github.com/sebas05000/go-imap/utf7"
 )
 
 var encode = []struct {

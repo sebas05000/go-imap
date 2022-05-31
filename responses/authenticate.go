@@ -3,8 +3,8 @@ package responses
 import (
 	"encoding/base64"
 
-	"github.com/emersion/go-imap"
-	"github.com/emersion/go-sasl"
+	"github.com/sebas05000/go-imap"
+	"github.com/sebas05000/go-sasl"
 )
 
 // An AUTHENTICATE response.

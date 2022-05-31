@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/emersion/go-imap/internal"
-	"github.com/emersion/go-imap/server"
+	"github.com/sebas05000/go-imap/internal"
+	"github.com/sebas05000/go-imap/server"
 )
 
 func testServerTLS(t *testing.T) (s *server.Server, c net.Conn, scanner *bufio.Scanner) {

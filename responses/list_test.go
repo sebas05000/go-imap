@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/emersion/go-imap"
+	"github.com/sebas05000/go-imap"
 )
 
 func TestListSlashDelimiter(t *testing.T) {

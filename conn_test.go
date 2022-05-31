@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/emersion/go-imap"
+	"github.com/sebas05000/go-imap"
 )
 
 func TestNewConn(t *testing.T) {
